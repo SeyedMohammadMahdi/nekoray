@@ -1,0 +1,623 @@
+ to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:39 tcp:127.0.0.1:33962 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:40 tcp:127.0.0.1:33974 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:40 [Warning] [860836860] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:41 tcp:127.0.0.1:59122 accepted [tcp:151.101.192.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:41 [Warning] [3788774796] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:44 tcp:127.0.0.1:59134 accepted [tcp:151.101.192.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:44 [Warning] [2410469403] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:45 tcp:127.0.0.1:59138 accepted [tcp:151.101.128.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:45 [Warning] [2598477828] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 192.168.132.250:38808->193.151.148.79:25039: read: connection reset by peer
+2023/06/03 13:11:45 tcp:127.0.0.1:59140 accepted [tcp:151.101.0.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:45 [Warning] [657054770] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:46 tcp:127.0.0.1:59154 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:47 [Warning] [1006867670] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:49 tcp:127.0.0.1:59164 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:49 [Warning] [2900610087] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:12:06 tcp:127.0.0.1:56646 accepted [tcp:151.101.128.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:12:07 tcp:127.0.0.1:56656 accepted [tcp:151.101.65.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/03 13:12:19 tcp:127.0.0.1:49628 accepted [tcp:185.125.188.55:443] tcp:api.snapcraft.io:443 [socks-in -> proxy]
+2023/06/03 13:12:28 udp:127.0.0.1:57033 accepted [udp:91.189.91.157:123]  [socks-in -> proxy]
+2023/06/03 13:12:33 [Warning] [4091053907] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 192.168.132.250:54164->193.151.148.79:25039: use of closed network connection
+2023/06/04 06:08:28 nekoray_core grpc server listening at 127.0.0.1:41511
+2023/06/04 06:08:29 [Warning] V2Ray 5.3.0 started
+2023/06/04 06:08:46 tcp:127.0.0.1:35138 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/04 06:08:50 tcp:127.0.0.1:35144 accepted [tcp:146.75.121.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/04 06:10:00 udp:127.0.0.1:43623 accepted [udp:91.189.91.157:123]  [socks-in -> proxy]
+2023/06/04 06:10:41 tcp:127.0.0.1:56914 accepted [tcp:185.125.188.55:443] tcp:api.snapcraft.io:443 [socks-in -> proxy]
+2023/06/04 06:10:41 [Warning] [886280894] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/04 06:10:41 tcp:127.0.0.1:56928 accepted [tcp:185.125.188.54:443] tcp:api.snapcraft.io:443 [socks-in -> proxy]
+2023/06/04 06:10:41 [Warning] [778212680] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/04 06:10:43 tcp:127.0.0.1:56940 accepted [tcp:185.125.188.54:443] tcp:api.snapcraft.io:443 [socks-in -> proxy]
+2023/06/04 06:11:04 tcp:127.0.0.1:55006 accepted [tcp:34.117.237.239:443] tcp:contile.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/04 06:11:04 [Warning] [2355503467] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 172.24.84.28:43548->193.151.148.79:25039: read: connection reset by peer
+2023/06/04 06:12:24 udp:127.0.0.1:60577 accepted [udp:91.189.91.157:123]  [socks-in -> proxy]
+2023/06/04 06:13:32 udp:127.0.0.1:38431 accepted [udp:91.189.91.157:123]  [socks-in -> proxy]
+2023/06/04 06:14:13 [Warning] [1797711798] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: i/o timeout dial tcp: lookup irz3.lampison.info on 127.0.0.53:53: server misbehaving] > common/retry: all retry attempts failed
+2023/06/04 06:14:17 udp:127.0.0.1:38399 accepted [udp:185.125.190.58:123]  [socks-in -> proxy]
+2023/06/04 06:14:28 udp:127.0.0.1:35721 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/04 06:14:46 [Warning] [162417519] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp: lookup irz3.lampison.info on 127.0.0.53:53: server misbehaving] > common/retry: all retry attempts failed
+2023/06/04 06:14:59 [Warning] [1520427845] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp: lookup irz3.lampison.info on 127.0.0.53:53: server misbehaving] > common/retry: all retry attempts failed
+2023/06/04 06:15:00 udp:127.0.0.1:54328 accepted [udp:216.239.38.120:443] udp:www.google.com:443 [socks-in -> proxy]
+2023/06/04 06:15:00 tcp:127.0.0.1:52980 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/04 06:15:24 [Warning] [547367996] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to transfer response payload > proxy/vless/encoding: failed to read packet length > read tcp 172.24.84.28:50960->193.151.148.79:25039: use of closed network connection
+2023/06/03 07:01:53 nekoray_core grpc server listening at 127.0.0.1:34435
+2023/06/03 07:01:57 [Warning] V2Ray 5.3.0 started
+2023/06/03 07:06:13 tcp:127.0.0.1:50430 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 07:06:13 tcp:127.0.0.1:50418 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 07:06:46 tcp:127.0.0.1:51362 accepted [tcp:172.217.18.10:443] tcp:www.googleapis.com:443 [socks-in -> proxy]
+2023/06/03 07:07:50 tcp:127.0.0.1:51820 accepted [tcp:3.5.25.154:443] tcp:github-education-web.s3.amazonaws.com:443 [socks-in -> proxy]
+2023/06/03 07:07:52 tcp:127.0.0.1:58942 accepted [tcp:18.66.128.120:80] tcp:ocsp.r2m01.amazontrust.com:80 [socks-in -> proxy]
+2023/06/03 07:07:55 udp:127.0.0.1:35778 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:08:27 tcp:127.0.0.1:39094 accepted [tcp:140.82.114.22:443] tcp:education.github.com:443 [socks-in -> proxy]
+2023/06/03 07:08:52 tcp:127.0.0.1:60670 accepted [tcp:34.117.237.239:443] tcp:contile.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:08:53 tcp:127.0.0.1:60676 accepted [tcp:34.120.115.102:443] tcp:contile-images.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:08:53 tcp:127.0.0.1:60692 accepted [tcp:34.120.115.102:443] tcp:contile-images.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:08:54 tcp:127.0.0.1:60700 accepted [tcp:95.100.170.51:80] tcp:r3.o.lencr.org:80 [socks-in -> proxy]
+2023/06/03 07:08:54 tcp:127.0.0.1:60708 accepted [tcp:95.100.170.51:80] tcp:r3.o.lencr.org:80 [socks-in -> proxy]
+2023/06/03 07:08:56 tcp:127.0.0.1:60712 accepted [tcp:169.150.247.36:443] tcp:cdn.usefathom.com:443 [socks-in -> proxy]
+2023/06/03 07:09:18 tcp:127.0.0.1:50318 accepted [tcp:151.101.0.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 07:09:19 tcp:127.0.0.1:50328 accepted [tcp:151.101.65.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/03 07:09:49 tcp:127.0.0.1:50040 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 07:09:51 tcp:127.0.0.1:50056 accepted [tcp:151.101.65.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/03 07:10:07 tcp:127.0.0.1:37682 accepted [tcp:185.199.110.133:443] tcp:raw.githubusercontent.com:443 [socks-in -> proxy]
+2023/06/03 07:10:08 tcp:127.0.0.1:37690 accepted [tcp:34.120.177.193:443] tcp:grafana.com:443 [socks-in -> proxy]
+2023/06/03 07:10:14 udp:127.0.0.1:36952 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:10:14 [Warning] [1972193150] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 07:10:29 udp:127.0.0.1:36952 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:11:40 udp:127.0.0.1:59337 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:12:45 udp:127.0.0.1:39059 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:13:19 udp:127.0.0.1:55493 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:14:24 udp:127.0.0.1:52448 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:15:28 udp:127.0.0.1:53625 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:15:33 tcp:127.0.0.1:33738 accepted [tcp:34.120.208.123:443] tcp:incoming.telemetry.mozilla.org:443 [socks-in -> proxy]
+2023/06/03 07:15:33 tcp:127.0.0.1:33742 accepted [tcp:34.120.115.102:443] tcp:contile-images.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:15:34 tcp:127.0.0.1:33758 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/03 07:15:39 tcp:127.0.0.1:33760 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/03 07:01:53 nekoray_core grpc server listening at 127.0.0.1:34435
+2023/06/03 07:01:57 [Warning] V2Ray 5.3.0 started
+2023/06/03 07:06:13 tcp:127.0.0.1:50430 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 07:06:13 tcp:127.0.0.1:50418 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 07:06:46 tcp:127.0.0.1:51362 accepted [tcp:172.217.18.10:443] tcp:www.googleapis.com:443 [socks-in -> proxy]
+2023/06/03 07:07:50 tcp:127.0.0.1:51820 accepted [tcp:3.5.25.154:443] tcp:github-education-web.s3.amazonaws.com:443 [socks-in -> proxy]
+2023/06/03 07:07:52 tcp:127.0.0.1:58942 accepted [tcp:18.66.128.120:80] tcp:ocsp.r2m01.amazontrust.com:80 [socks-in -> proxy]
+2023/06/03 07:07:55 udp:127.0.0.1:35778 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:08:27 tcp:127.0.0.1:39094 accepted [tcp:140.82.114.22:443] tcp:education.github.com:443 [socks-in -> proxy]
+2023/06/03 07:08:52 tcp:127.0.0.1:60670 accepted [tcp:34.117.237.239:443] tcp:contile.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:08:53 tcp:127.0.0.1:60676 accepted [tcp:34.120.115.102:443] tcp:contile-images.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:08:53 tcp:127.0.0.1:60692 accepted [tcp:34.120.115.102:443] tcp:contile-images.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:08:54 tcp:127.0.0.1:60700 accepted [tcp:95.100.170.51:80] tcp:r3.o.lencr.org:80 [socks-in -> proxy]
+2023/06/03 07:08:54 tcp:127.0.0.1:60708 accepted [tcp:95.100.170.51:80] tcp:r3.o.lencr.org:80 [socks-in -> proxy]
+2023/06/03 07:08:56 tcp:127.0.0.1:60712 accepted [tcp:169.150.247.36:443] tcp:cdn.usefathom.com:443 [socks-in -> proxy]
+2023/06/03 07:09:18 tcp:127.0.0.1:50318 accepted [tcp:151.101.0.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 07:09:19 tcp:127.0.0.1:50328 accepted [tcp:151.101.65.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/03 07:09:49 tcp:127.0.0.1:50040 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 07:09:51 tcp:127.0.0.1:50056 accepted [tcp:151.101.65.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/03 07:10:07 tcp:127.0.0.1:37682 accepted [tcp:185.199.110.133:443] tcp:raw.githubusercontent.com:443 [socks-in -> proxy]
+2023/06/03 07:10:08 tcp:127.0.0.1:37690 accepted [tcp:34.120.177.193:443] tcp:grafana.com:443 [socks-in -> proxy]
+2023/06/03 07:10:14 udp:127.0.0.1:36952 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:10:14 [Warning] [1972193150] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 07:10:29 udp:127.0.0.1:36952 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:11:40 udp:127.0.0.1:59337 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:12:45 udp:127.0.0.1:39059 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:13:19 udp:127.0.0.1:55493 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:14:24 udp:127.0.0.1:52448 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:15:28 udp:127.0.0.1:53625 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:15:33 tcp:127.0.0.1:33738 accepted [tcp:34.120.208.123:443] tcp:incoming.telemetry.mozilla.org:443 [socks-in -> proxy]
+2023/06/03 07:15:33 tcp:127.0.0.1:33742 accepted [tcp:34.120.115.102:443] tcp:contile-images.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:15:34 tcp:127.0.0.1:33758 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/03 07:15:39 tcp:127.0.0.1:33760 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/03 13:11:24 nekoray_core grpc server listening at 127.0.0.1:37799
+2023/06/03 13:11:31 [Warning] V2Ray 5.3.0 started
+2023/06/03 13:11:35 tcp:127.0.0.1:33828 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:36 [Warning] [3227082112] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:36 tcp:127.0.0.1:33838 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:36 [Warning] [3166376792] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:36 tcp:127.0.0.1:33846 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:36 [Warning] [2547111671] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:36 tcp:127.0.0.1:33862 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:36 [Warning] [288064801] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:37 tcp:127.0.0.1:33864 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:37 [Warning] [869343708] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:37 tcp:127.0.0.1:33874 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:37 [Warning] [3899690734] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 192.168.132.250:41676->193.151.148.79:25039: read: connection reset by peer
+2023/06/03 13:11:37 tcp:127.0.0.1:33880 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:37 [Warning] [2554365077] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:37 tcp:127.0.0.1:33894 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:37 [Warning] [3890450929] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:37 tcp:127.0.0.1:33904 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:38 [Warning] [4107657844] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:38 tcp:127.0.0.1:33910 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:38 [Warning] [1242407871] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 192.168.132.250:41730->193.151.148.79:25039: read: connection reset by peer
+2023/06/03 13:11:38 tcp:127.0.0.1:33918 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:38 [Warning] [542792513] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 192.168.132.250:41732->193.151.148.79:25039: read: connection reset by peer
+2023/06/03 13:11:38 tcp:127.0.0.1:33924 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:38 [Warning] [4002279036] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:38 tcp:127.0.0.1:33934 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:39 tcp:127.0.0.1:33950 accepted [tcp:151.101.192.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:39 [Warning] [3511540033] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:39 tcp:127.0.0.1:33954 accepted [tcp:151.101.0.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:39 tcp:127.0.0.1:33960 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:39 [Warning] [255901887] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:39 [Warning] [1326266207] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:39 tcp:127.0.0.1:33962 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:40 tcp:127.0.0.1:33974 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:40 [Warning] [860836860] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:41 tcp:127.0.0.1:59122 accepted [tcp:151.101.192.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:41 [Warning] [3788774796] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:44 tcp:127.0.0.1:59134 accepted [tcp:151.101.192.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:44 [Warning] [2410469403] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:45 tcp:127.0.0.1:59138 accepted [tcp:151.101.128.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:45 [Warning] [2598477828] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 192.168.132.250:38808->193.151.148.79:25039: read: connection reset by peer
+2023/06/03 13:11:45 tcp:127.0.0.1:59140 accepted [tcp:151.101.0.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:45 [Warning] [657054770] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:46 tcp:127.0.0.1:59154 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:47 [Warning] [1006867670] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:49 tcp:127.0.0.1:59164 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:49 [Warning] [2900610087] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:12:06 tcp:127.0.0.1:56646 accepted [tcp:151.101.128.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:12:07 tcp:127.0.0.1:56656 accepted [tcp:151.101.65.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/03 13:12:19 tcp:127.0.0.1:49628 accepted [tcp:185.125.188.55:443] tcp:api.snapcraft.io:443 [socks-in -> proxy]
+2023/06/03 13:12:28 udp:127.0.0.1:57033 accepted [udp:91.189.91.157:123]  [socks-in -> proxy]
+2023/06/03 13:12:33 [Warning] [4091053907] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 192.168.132.250:54164->193.151.148.79:25039: use of closed network connection
+2023/06/03 07:01:53 nekoray_core grpc server listening at 127.0.0.1:34435
+2023/06/03 07:01:57 [Warning] V2Ray 5.3.0 started
+2023/06/03 07:06:13 tcp:127.0.0.1:50430 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 07:06:13 tcp:127.0.0.1:50418 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 07:06:46 tcp:127.0.0.1:51362 accepted [tcp:172.217.18.10:443] tcp:www.googleapis.com:443 [socks-in -> proxy]
+2023/06/03 07:07:50 tcp:127.0.0.1:51820 accepted [tcp:3.5.25.154:443] tcp:github-education-web.s3.amazonaws.com:443 [socks-in -> proxy]
+2023/06/03 07:07:52 tcp:127.0.0.1:58942 accepted [tcp:18.66.128.120:80] tcp:ocsp.r2m01.amazontrust.com:80 [socks-in -> proxy]
+2023/06/03 07:07:55 udp:127.0.0.1:35778 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:08:27 tcp:127.0.0.1:39094 accepted [tcp:140.82.114.22:443] tcp:education.github.com:443 [socks-in -> proxy]
+2023/06/03 07:08:52 tcp:127.0.0.1:60670 accepted [tcp:34.117.237.239:443] tcp:contile.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:08:53 tcp:127.0.0.1:60676 accepted [tcp:34.120.115.102:443] tcp:contile-images.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:08:53 tcp:127.0.0.1:60692 accepted [tcp:34.120.115.102:443] tcp:contile-images.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:08:54 tcp:127.0.0.1:60700 accepted [tcp:95.100.170.51:80] tcp:r3.o.lencr.org:80 [socks-in -> proxy]
+2023/06/03 07:08:54 tcp:127.0.0.1:60708 accepted [tcp:95.100.170.51:80] tcp:r3.o.lencr.org:80 [socks-in -> proxy]
+2023/06/03 07:08:56 tcp:127.0.0.1:60712 accepted [tcp:169.150.247.36:443] tcp:cdn.usefathom.com:443 [socks-in -> proxy]
+2023/06/03 07:09:18 tcp:127.0.0.1:50318 accepted [tcp:151.101.0.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 07:09:19 tcp:127.0.0.1:50328 accepted [tcp:151.101.65.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/03 07:09:49 tcp:127.0.0.1:50040 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 07:09:51 tcp:127.0.0.1:50056 accepted [tcp:151.101.65.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/03 07:10:07 tcp:127.0.0.1:37682 accepted [tcp:185.199.110.133:443] tcp:raw.githubusercontent.com:443 [socks-in -> proxy]
+2023/06/03 07:10:08 tcp:127.0.0.1:37690 accepted [tcp:34.120.177.193:443] tcp:grafana.com:443 [socks-in -> proxy]
+2023/06/03 07:10:14 udp:127.0.0.1:36952 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:10:14 [Warning] [1972193150] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 07:10:29 udp:127.0.0.1:36952 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:11:40 udp:127.0.0.1:59337 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:12:45 udp:127.0.0.1:39059 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:13:19 udp:127.0.0.1:55493 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:14:24 udp:127.0.0.1:52448 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:15:28 udp:127.0.0.1:53625 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:15:33 tcp:127.0.0.1:33738 accepted [tcp:34.120.208.123:443] tcp:incoming.telemetry.mozilla.org:443 [socks-in -> proxy]
+2023/06/03 07:15:33 tcp:127.0.0.1:33742 accepted [tcp:34.120.115.102:443] tcp:contile-images.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:15:34 tcp:127.0.0.1:33758 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/03 07:15:39 tcp:127.0.0.1:33760 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/03 07:01:53 nekoray_core grpc server listening at 127.0.0.1:34435
+2023/06/03 07:01:57 [Warning] V2Ray 5.3.0 started
+2023/06/03 07:06:13 tcp:127.0.0.1:50430 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 07:06:13 tcp:127.0.0.1:50418 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 07:06:46 tcp:127.0.0.1:51362 accepted [tcp:172.217.18.10:443] tcp:www.googleapis.com:443 [socks-in -> proxy]
+2023/06/03 07:07:50 tcp:127.0.0.1:51820 accepted [tcp:3.5.25.154:443] tcp:github-education-web.s3.amazonaws.com:443 [socks-in -> proxy]
+2023/06/03 07:07:52 tcp:127.0.0.1:58942 accepted [tcp:18.66.128.120:80] tcp:ocsp.r2m01.amazontrust.com:80 [socks-in -> proxy]
+2023/06/03 07:07:55 udp:127.0.0.1:35778 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:08:27 tcp:127.0.0.1:39094 accepted [tcp:140.82.114.22:443] tcp:education.github.com:443 [socks-in -> proxy]
+2023/06/03 07:08:52 tcp:127.0.0.1:60670 accepted [tcp:34.117.237.239:443] tcp:contile.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:08:53 tcp:127.0.0.1:60676 accepted [tcp:34.120.115.102:443] tcp:contile-images.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:08:53 tcp:127.0.0.1:60692 accepted [tcp:34.120.115.102:443] tcp:contile-images.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:08:54 tcp:127.0.0.1:60700 accepted [tcp:95.100.170.51:80] tcp:r3.o.lencr.org:80 [socks-in -> proxy]
+2023/06/03 07:08:54 tcp:127.0.0.1:60708 accepted [tcp:95.100.170.51:80] tcp:r3.o.lencr.org:80 [socks-in -> proxy]
+2023/06/03 07:08:56 tcp:127.0.0.1:60712 accepted [tcp:169.150.247.36:443] tcp:cdn.usefathom.com:443 [socks-in -> proxy]
+2023/06/03 07:09:18 tcp:127.0.0.1:50318 accepted [tcp:151.101.0.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 07:09:19 tcp:127.0.0.1:50328 accepted [tcp:151.101.65.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/03 07:09:49 tcp:127.0.0.1:50040 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 07:09:51 tcp:127.0.0.1:50056 accepted [tcp:151.101.65.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/03 07:10:07 tcp:127.0.0.1:37682 accepted [tcp:185.199.110.133:443] tcp:raw.githubusercontent.com:443 [socks-in -> proxy]
+2023/06/03 07:10:08 tcp:127.0.0.1:37690 accepted [tcp:34.120.177.193:443] tcp:grafana.com:443 [socks-in -> proxy]
+2023/06/03 07:10:14 udp:127.0.0.1:36952 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:10:14 [Warning] [1972193150] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 07:10:29 udp:127.0.0.1:36952 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:11:40 udp:127.0.0.1:59337 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:12:45 udp:127.0.0.1:39059 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:13:19 udp:127.0.0.1:55493 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:14:24 udp:127.0.0.1:52448 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:15:28 udp:127.0.0.1:53625 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/03 07:15:33 tcp:127.0.0.1:33738 accepted [tcp:34.120.208.123:443] tcp:incoming.telemetry.mozilla.org:443 [socks-in -> proxy]
+2023/06/03 07:15:33 tcp:127.0.0.1:33742 accepted [tcp:34.120.115.102:443] tcp:contile-images.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/03 07:15:34 tcp:127.0.0.1:33758 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/03 07:15:39 tcp:127.0.0.1:33760 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/03 13:11:24 nekoray_core grpc server listening at 127.0.0.1:37799
+2023/06/03 13:11:31 [Warning] V2Ray 5.3.0 started
+2023/06/03 13:11:35 tcp:127.0.0.1:33828 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:36 [Warning] [3227082112] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:36 tcp:127.0.0.1:33838 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:36 [Warning] [3166376792] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:36 tcp:127.0.0.1:33846 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:36 [Warning] [2547111671] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:36 tcp:127.0.0.1:33862 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:36 [Warning] [288064801] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:37 tcp:127.0.0.1:33864 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:37 [Warning] [869343708] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:37 tcp:127.0.0.1:33874 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:37 [Warning] [3899690734] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 192.168.132.250:41676->193.151.148.79:25039: read: connection reset by peer
+2023/06/03 13:11:37 tcp:127.0.0.1:33880 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:37 [Warning] [2554365077] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:37 tcp:127.0.0.1:33894 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:37 [Warning] [3890450929] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:37 tcp:127.0.0.1:33904 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:38 [Warning] [4107657844] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:38 tcp:127.0.0.1:33910 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:38 [Warning] [1242407871] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 192.168.132.250:41730->193.151.148.79:25039: read: connection reset by peer
+2023/06/03 13:11:38 tcp:127.0.0.1:33918 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:38 [Warning] [542792513] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 192.168.132.250:41732->193.151.148.79:25039: read: connection reset by peer
+2023/06/03 13:11:38 tcp:127.0.0.1:33924 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:38 [Warning] [4002279036] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:38 tcp:127.0.0.1:33934 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:39 tcp:127.0.0.1:33950 accepted [tcp:151.101.192.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:39 [Warning] [3511540033] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:39 tcp:127.0.0.1:33954 accepted [tcp:151.101.0.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:39 tcp:127.0.0.1:33960 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:39 [Warning] [255901887] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:39 [Warning] [1326266207] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:39 tcp:127.0.0.1:33962 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/03 13:11:40 tcp:127.0.0.1:33974 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:40 [Warning] [860836860] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:41 tcp:127.0.0.1:59122 accepted [tcp:151.101.192.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:41 [Warning] [3788774796] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:44 tcp:127.0.0.1:59134 accepted [tcp:151.101.192.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:44 [Warning] [2410469403] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:45 tcp:127.0.0.1:59138 accepted [tcp:151.101.128.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:45 [Warning] [2598477828] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 192.168.132.250:38808->193.151.148.79:25039: read: connection reset by peer
+2023/06/03 13:11:45 tcp:127.0.0.1:59140 accepted [tcp:151.101.0.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:45 [Warning] [657054770] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:46 tcp:127.0.0.1:59154 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:47 [Warning] [1006867670] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:11:49 tcp:127.0.0.1:59164 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:11:49 [Warning] [2900610087] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/03 13:12:06 tcp:127.0.0.1:56646 accepted [tcp:151.101.128.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/03 13:12:07 tcp:127.0.0.1:56656 accepted [tcp:151.101.65.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/03 13:12:19 tcp:127.0.0.1:49628 accepted [tcp:185.125.188.55:443] tcp:api.snapcraft.io:443 [socks-in -> proxy]
+2023/06/03 13:12:28 udp:127.0.0.1:57033 accepted [udp:91.189.91.157:123]  [socks-in -> proxy]
+2023/06/03 13:12:33 [Warning] [4091053907] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 192.168.132.250:54164->193.151.148.79:25039: use of closed network connection
+2023/06/04 06:08:28 nekoray_core grpc server listening at 127.0.0.1:41511
+2023/06/04 06:08:29 [Warning] V2Ray 5.3.0 started
+2023/06/04 06:08:46 tcp:127.0.0.1:35138 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/04 06:08:50 tcp:127.0.0.1:35144 accepted [tcp:146.75.121.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/04 06:10:00 udp:127.0.0.1:43623 accepted [udp:91.189.91.157:123]  [socks-in -> proxy]
+2023/06/04 06:10:41 tcp:127.0.0.1:56914 accepted [tcp:185.125.188.55:443] tcp:api.snapcraft.io:443 [socks-in -> proxy]
+2023/06/04 06:10:41 [Warning] [886280894] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/04 06:10:41 tcp:127.0.0.1:56928 accepted [tcp:185.125.188.54:443] tcp:api.snapcraft.io:443 [socks-in -> proxy]
+2023/06/04 06:10:41 [Warning] [778212680] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > EOF
+2023/06/04 06:10:43 tcp:127.0.0.1:56940 accepted [tcp:185.125.188.54:443] tcp:api.snapcraft.io:443 [socks-in -> proxy]
+2023/06/04 06:11:04 tcp:127.0.0.1:55006 accepted [tcp:34.117.237.239:443] tcp:contile.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/04 06:11:04 [Warning] [2355503467] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to decode response header > proxy/vless/encoding: failed to read response version > read tcp 172.24.84.28:43548->193.151.148.79:25039: read: connection reset by peer
+2023/06/04 06:12:24 udp:127.0.0.1:60577 accepted [udp:91.189.91.157:123]  [socks-in -> proxy]
+2023/06/04 06:13:32 udp:127.0.0.1:38431 accepted [udp:91.189.91.157:123]  [socks-in -> proxy]
+2023/06/04 06:14:13 [Warning] [1797711798] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: i/o timeout dial tcp: lookup irz3.lampison.info on 127.0.0.53:53: server misbehaving] > common/retry: all retry attempts failed
+2023/06/04 06:14:17 udp:127.0.0.1:38399 accepted [udp:185.125.190.58:123]  [socks-in -> proxy]
+2023/06/04 06:14:28 udp:127.0.0.1:35721 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/04 06:14:46 [Warning] [162417519] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp: lookup irz3.lampison.info on 127.0.0.53:53: server misbehaving] > common/retry: all retry attempts failed
+2023/06/04 06:14:59 [Warning] [1520427845] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp: lookup irz3.lampison.info on 127.0.0.53:53: server misbehaving] > common/retry: all retry attempts failed
+2023/06/04 06:15:00 udp:127.0.0.1:54328 accepted [udp:216.239.38.120:443] udp:www.google.com:443 [socks-in -> proxy]
+2023/06/04 06:15:00 tcp:127.0.0.1:52980 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/04 06:15:24 [Warning] [547367996] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: connection ends > proxy/vless/outbound: failed to transfer response payload > proxy/vless/encoding: failed to read packet length > read tcp 172.24.84.28:50960->193.151.148.79:25039: use of closed network connection
+2023/06/05 12:29:43 nekoray_core grpc server listening at 127.0.0.1:38661
+2023/06/05 12:29:46 [Warning] V2Ray 5.3.0 started
+2023/06/05 12:29:51 tcp:127.0.0.1:57062 accepted [tcp:89.39.107.178:443] tcp:36mi4xobihcb52tnbqx5phrl3mrpf3je3giikppfq2ttsn7iyy5rh7tqpo3ybey.weapon-tales.cc:443 [socks-in -> proxy]
+2023/06/05 12:29:51 tcp:127.0.0.1:57070 accepted [tcp:89.39.107.178:443] tcp:36mi4xobihcb52tnbqx5phrl3mrpf3je3giikppfq2ttsn7iyy5rh7tqpo3ybey.weapon-tales.cc:443 [socks-in -> proxy]
+2023/06/05 12:29:56 tcp:127.0.0.1:57072 accepted [tcp:89.39.107.178:443] tcp:36mi4xobihcb52tnbqx5phrl3mrpf3je3giikppfq2ttsn7iyy5rh7tqpo3ybey.weapon-tales.cc:443 [socks-in -> proxy]
+2023/06/05 12:29:58 tcp:127.0.0.1:57084 accepted [tcp:151.101.0.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/05 12:29:59 [Warning] [1905365248] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/05 12:30:01 tcp:127.0.0.1:41556 accepted [tcp:89.39.107.178:443] tcp:36mi4xobihcb52tnbqx5phrl3mrpf3je3giikppfq2ttsn7iyy5rh7tqpo3ybey.weapon-tales.cc:443 [socks-in -> proxy]
+2023/06/05 12:30:01 tcp:127.0.0.1:41572 accepted [tcp:89.39.107.178:443] tcp:36mi4xobihcb52tnbqx5phrl3mrpf3je3giikppfq2ttsn7iyy5rh7tqpo3ybey.weapon-tales.cc:443 [socks-in -> proxy]
+2023/06/05 12:30:04 [Warning] [4277666002] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/05 12:30:06 tcp:127.0.0.1:41586 accepted [tcp:89.39.107.178:443] tcp:36mi4xobihcb52tnbqx5phrl3mrpf3je3giikppfq2ttsn7iyy5rh7tqpo3ybey.weapon-tales.cc:443 [socks-in -> proxy]
+2023/06/05 12:30:09 [Warning] [977413909] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/05 12:30:11 tcp:127.0.0.1:58370 accepted [tcp:89.39.107.178:443] tcp:36mi4xobihcb52tnbqx5phrl3mrpf3je3giikppfq2ttsn7iyy5rh7tqpo3ybey.weapon-tales.cc:443 [socks-in -> proxy]
+2023/06/05 12:30:13 tcp:127.0.0.1:58382 accepted [tcp:151.101.192.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/05 12:30:14 [Warning] [1545642883] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/05 12:30:16 [Warning] [1613831307] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/05 12:30:17 [Warning] [4183032638] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: i/o timeout dial tcp 193.151.148.79:25039: connect: no route to host] > common/retry: all retry attempts failed
+2023/06/05 12:30:18 [Warning] [703556851] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/05 12:30:19 [Warning] [2618925548] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/05 12:30:19 [Warning] [2586970920] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/07 07:07:52 nekoray_core grpc server listening at 127.0.0.1:36255
+2023/06/07 07:07:54 [Warning] V2Ray 5.3.0 started
+2023/06/07 07:08:00 tcp:127.0.0.1:39922 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/07 07:08:00 tcp:127.0.0.1:39928 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/07 07:08:04 tcp:127.0.0.1:39944 accepted [tcp:151.101.192.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/07 07:08:05 tcp:127.0.0.1:39958 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/07 07:08:08 [Warning] [157382701] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/07 07:08:10 tcp:127.0.0.1:44078 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/07 07:08:13 [Warning] [949252843] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/07 07:08:15 tcp:127.0.0.1:44086 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/07 07:08:17 [Warning] [1163070306] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host] > common/retry: all retry attempts failed
+2023/06/07 07:08:17 tcp:127.0.0.1:44094 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/07 07:08:18 [Warning] [1773244192] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/07 07:08:19 tcp:127.0.0.1:51048 accepted [tcp:151.101.192.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/07 07:08:21 [Warning] [862964898] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: operation was canceled] > common/retry: all retry attempts failed
+2023/06/07 07:09:15 [Warning] V2Ray 5.3.0 started
+2023/06/07 07:09:19 tcp:127.0.0.1:40406 accepted [tcp:52.70.125.53:443] tcp:tch260478.tch.poe.com:443 [socks-in -> proxy]
+2023/06/07 07:09:22 tcp:127.0.0.1:40412 accepted [tcp:34.237.73.95:443] tcp:nexus-websocket-a.intercom.io:443 [socks-in -> proxy]
+2023/06/07 07:09:23 tcp:127.0.0.1:40422 accepted [tcp:34.117.65.55:443] tcp:push.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/07 07:09:24 tcp:127.0.0.1:40428 accepted [tcp:151.101.0.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/07 07:09:28 [Warning] [2721508571] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/07 07:09:28 udp:127.0.0.1:45359 accepted [udp:142.250.186.138:443]  [socks-in -> proxy]
+2023/06/07 07:09:39 tcp:127.0.0.1:50630 accepted [tcp:151.101.64.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/07 07:09:42 [Warning] [2052557986] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: i/o timeout dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/07 07:09:46 udp:127.0.0.1:56954 accepted [udp:91.189.91.157:123]  [socks-in -> proxy]
+2023/06/07 07:09:54 tcp:127.0.0.1:39014 accepted [tcp:151.101.128.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/07 07:09:57 [Warning] [2554940204] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: i/o timeout dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/07 07:10:03 [Warning] [3067481847] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/07 07:10:06 [Warning] [227184287] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: i/o timeout dial tcp 193.151.148.79:25039: connect: no route to host] > common/retry: all retry attempts failed
+2023/06/07 07:10:07 [Warning] [2603808472] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: i/o timeout dial tcp 193.151.148.79:25039: connect: no route to host] > common/retry: all retry attempts failed
+2023/06/07 07:10:19 [Warning] [4109719770] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: i/o timeout dial tcp 193.151.148.79:25039: connect: no route to host] > common/retry: all retry attempts failed
+2023/06/07 07:10:23 tcp:127.0.0.1:47160 accepted [tcp:34.117.65.55:443] tcp:push.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/07 07:10:31 udp:127.0.0.1:49957 accepted [udp:185.125.190.56:123]  [socks-in -> proxy]
+2023/06/07 07:10:40 tcp:127.0.0.1:35246 accepted [tcp:107.23.218.0:443] tcp:tch260478.tch.poe.com:443 [socks-in -> proxy]
+2023/06/07 07:10:41 tcp:127.0.0.1:35248 accepted [tcp:34.237.73.95:443] tcp:nexus-websocket-a.intercom.io:443 [socks-in -> proxy]
+2023/06/07 07:10:42 udp:127.0.0.1:55494 accepted [udp:91.189.94.4:123]  [socks-in -> proxy]
+2023/06/07 07:10:52 udp:127.0.0.1:37874 accepted [udp:185.125.190.58:123]  [socks-in -> proxy]
+2023/06/07 07:10:56 [Warning] [934047290] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: i/o timeout dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: i/o timeout] > common/retry: all retry attempts failed
+2023/06/07 07:10:58 [Warning] [791823271] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: i/o timeout dial tcp 193.151.148.79:25039: connect: no route to host] > common/retry: all retry attempts failed
+2023/06/07 07:10:58 [Warning] [2828738505] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host] > common/retry: all retry attempts failed
+2023/06/07 07:11:02 udp:127.0.0.1:56030 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:11:04 [Warning] [1432210877] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host] > common/retry: all retry attempts failed
+2023/06/07 07:11:11 [Warning] [1316816888] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: i/o timeout] > common/retry: all retry attempts failed
+2023/06/07 07:11:11 [Warning] [1684449800] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: i/o timeout] > common/retry: all retry attempts failed
+2023/06/07 07:11:25 tcp:127.0.0.1:39810 accepted [tcp:185.199.109.133:443] tcp:raw.githubusercontent.com:443 [socks-in -> proxy]
+2023/06/07 07:11:25 tcp:127.0.0.1:39826 accepted [tcp:34.120.177.193:443] tcp:grafana.com:443 [socks-in -> proxy]
+2023/06/07 07:11:27 [Warning] V2Ray 5.3.0 started
+2023/06/07 07:11:35 [Warning] V2Ray 5.3.0 started
+2023/06/07 07:11:36 [Warning] [2937586323] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/07 07:11:36 [Warning] [4061748000] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: operation was canceled dial tcp: lookup irz3.lampison.info: operation was canceled] > common/retry: all retry attempts failed
+2023/06/07 07:11:37 [Warning] [3842381945] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: i/o timeout] > common/retry: all retry attempts failed
+2023/06/07 07:11:42 [Warning] [1216288746] app/proxyman/outbound: failed to process outbound traffic > proxy/vless/outbound: failed to find an available destination > common/retry: [dial tcp 193.151.148.79:25039: connect: no route to host dial tcp 193.151.148.79:25039: i/o timeout] > common/retry: all retry attempts failed
+2023/06/07 07:11:45 tcp:127.0.0.1:33166 accepted [tcp:151.101.128.223:443] tcp:pypi.org:443 [socks-in -> proxy]
+2023/06/07 07:11:46 tcp:127.0.0.1:33178 accepted [tcp:151.101.129.63:443] tcp:files.pythonhosted.org:443 [socks-in -> proxy]
+2023/06/07 07:12:00 tcp:127.0.0.1:60184 accepted [tcp:107.23.218.0:443] tcp:tch260478.tch.poe.com:443 [socks-in -> proxy]
+2023/06/07 07:12:03 tcp:127.0.0.1:60198 accepted [tcp:34.117.65.55:443] tcp:push.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/07 07:12:04 tcp:127.0.0.1:60214 accepted [tcp:34.117.65.55:443] tcp:push.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/07 07:12:48 tcp:127.0.0.1:56886 accepted [tcp:35.174.127.31:443] tcp:nexus-websocket-a.intercom.io:443 [socks-in -> proxy]
+2023/06/07 07:13:37 tcp:127.0.0.1:35540 accepted [tcp:104.18.2.161:443] tcp:chat.openai.com:443 [socks-in -> proxy]
+2023/06/07 07:13:38 udp:127.0.0.1:35524 accepted [udp:104.18.2.161:443] udp:chat.openai.com:443 [socks-in -> proxy]
+2023/06/07 07:13:39 tcp:127.0.0.1:35568 accepted [tcp:44.211.195.229:443] tcp:api-iam.intercom.io:443 [socks-in -> proxy]
+2023/06/07 07:15:29 udp:127.0.0.1:48190 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:16:54 tcp:127.0.0.1:34158 accepted [tcp:35.158.206.3:443] tcp:xcxx.loops-norman.pics:443 [socks-in -> proxy]
+2023/06/07 07:19:46 udp:127.0.0.1:47993 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:20:18 udp:127.0.0.1:51106 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:21:23 udp:127.0.0.1:47164 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:21:24 [Warning] [800709485] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:21:25 tcp:127.0.0.1:59660 accepted [tcp:185.199.108.133:443] tcp:raw.githubusercontent.com:443 [socks-in -> proxy]
+2023/06/07 07:21:25 tcp:127.0.0.1:59672 accepted [tcp:34.120.177.193:443] tcp:grafana.com:443 [socks-in -> proxy]
+2023/06/07 07:21:25 [Warning] [1039530953] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd): 500 Internal Server Error > websocket: bad handshake transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:21:25 [Warning] [702928524] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:21:38 udp:127.0.0.1:47164 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:21:39 [Warning] [800709485] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:21:59 udp:127.0.0.1:47164 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:22:00 tcp:127.0.0.1:55136 accepted [tcp:107.23.218.0:443] tcp:tch260478.tch.poe.com:443 [socks-in -> proxy]
+2023/06/07 07:22:39 tcp:127.0.0.1:44124 accepted [tcp:34.117.237.239:443] tcp:contile.services.mozilla.com:443 [socks-in -> proxy]
+2023/06/07 07:22:40 [Warning] [478617462] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd): 500 Internal Server Error > websocket: bad handshake] > common/retry: all retry attempts failed
+2023/06/07 07:23:04 udp:127.0.0.1:43798 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:23:04 [Warning] [2527115137] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:23:19 udp:127.0.0.1:43798 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:23:57 udp:127.0.0.1:58461 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:24:00 tcp:127.0.0.1:38920 accepted [tcp:162.159.152.17:443] tcp:poe.com:443 [socks-in -> proxy]
+2023/06/07 07:24:51 tcp:127.0.0.1:45086 accepted [tcp:10.10.34.36:443] tcp:safebrowsing.googleapis.com:443 [socks-in -> proxy]
+2023/06/07 07:24:51 [Warning] [4133522749] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > websocket: close 1000 (normal)
+2023/06/07 07:25:02 udp:127.0.0.1:57225 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:26:06 udp:127.0.0.1:44133 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:26:41 tcp:127.0.0.1:58992 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/07 07:26:41 tcp:127.0.0.1:59004 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/07 07:28:15 udp:127.0.0.1:44885 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:29:21 udp:127.0.0.1:51719 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:29:28 tcp:127.0.0.1:43038 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:28 tcp:127.0.0.1:43054 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:29 tcp:127.0.0.1:43064 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:29 tcp:127.0.0.1:43072 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:29 tcp:127.0.0.1:43080 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:29 tcp:127.0.0.1:43086 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:29 tcp:127.0.0.1:43098 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:29 tcp:127.0.0.1:38626 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:30 tcp:127.0.0.1:38632 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:30 tcp:127.0.0.1:38634 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:31 tcp:127.0.0.1:38638 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:31 tcp:127.0.0.1:38640 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:31 tcp:127.0.0.1:38648 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:31 tcp:127.0.0.1:38654 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:31 tcp:127.0.0.1:38656 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:32 tcp:127.0.0.1:38660 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:32 tcp:127.0.0.1:38666 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:32 tcp:127.0.0.1:38680 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:32 tcp:127.0.0.1:38688 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:32 tcp:127.0.0.1:38704 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:32 tcp:127.0.0.1:38708 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:33 tcp:127.0.0.1:38714 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:33 tcp:127.0.0.1:38722 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:34 tcp:127.0.0.1:38734 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:34 tcp:127.0.0.1:38742 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:34 tcp:127.0.0.1:38754 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:34 tcp:127.0.0.1:38756 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:35 tcp:127.0.0.1:38768 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:36 tcp:127.0.0.1:38782 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:36 tcp:127.0.0.1:38792 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:36 tcp:127.0.0.1:38798 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:37 tcp:127.0.0.1:38810 accepted [tcp:142.250.185.131:80] tcp:ocsp.pki.goog:80 [socks-in -> proxy]
+2023/06/07 07:29:37 tcp:127.0.0.1:38818 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:37 tcp:127.0.0.1:38822 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:37 tcp:127.0.0.1:38836 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:37 tcp:127.0.0.1:38852 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:37 tcp:127.0.0.1:38856 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:38 tcp:127.0.0.1:38870 accepted [tcp:216.239.38.120:443] tcp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:38 tcp:127.0.0.1:38874 accepted [tcp:142.250.185.131:80] tcp:ocsp.pki.goog:80 [socks-in -> proxy]
+2023/06/07 07:29:39 udp:127.0.0.1:34502 accepted [udp:216.239.38.120:443] udp:www.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:39 tcp:127.0.0.1:38880 accepted [tcp:34.120.208.123:443] tcp:incoming.telemetry.mozilla.org:443 [socks-in -> proxy]
+2023/06/07 07:29:39 tcp:127.0.0.1:38884 accepted [tcp:34.120.208.123:443] tcp:incoming.telemetry.mozilla.org:443 [socks-in -> proxy]
+2023/06/07 07:29:39 tcp:127.0.0.1:38890 accepted [tcp:142.250.185.131:443] tcp:fonts.gstatic.com:443 [socks-in -> proxy]
+2023/06/07 07:29:39 tcp:127.0.0.1:38894 accepted [tcp:142.250.186.163:443] tcp:www.gstatic.com:443 [socks-in -> proxy]
+2023/06/07 07:29:40 tcp:127.0.0.1:42404 accepted [tcp:142.250.186.163:443] tcp:www.gstatic.com:443 [socks-in -> proxy]
+2023/06/07 07:29:40 tcp:127.0.0.1:42412 accepted [tcp:172.217.18.99:443] tcp:id.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:40 tcp:127.0.0.1:42428 accepted [tcp:142.250.185.131:443] tcp:fonts.gstatic.com:443 [socks-in -> proxy]
+2023/06/07 07:29:40 tcp:127.0.0.1:42438 accepted [tcp:10.10.34.36:443] tcp:i.ytimg.com:443 [socks-in -> proxy]
+2023/06/07 07:29:41 tcp:127.0.0.1:42448 accepted [tcp:142.251.140.78:443] tcp:apis.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:41 tcp:127.0.0.1:42460 accepted [tcp:142.250.186.78:443] tcp:lh3.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:41 udp:127.0.0.1:44676 accepted [udp:172.217.18.99:443] udp:id.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:41 [Warning] [1341844708] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > websocket: close 1000 (normal)
+2023/06/07 07:29:42 [Warning] [1289307787] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > websocket: close 1000 (normal)
+2023/06/07 07:29:42 tcp:127.0.0.1:42472 accepted [tcp:172.217.16.205:443] tcp:accounts.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:42 tcp:127.0.0.1:42478 accepted [tcp:10.10.34.36:443] tcp:safebrowsing.googleapis.com:443 [socks-in -> proxy]
+2023/06/07 07:29:42 udp:127.0.0.1:48037 accepted [udp:142.250.186.78:443] udp:lh3.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:42 tcp:127.0.0.1:42486 accepted [tcp:172.217.18.14:443] tcp:play.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:42 tcp:127.0.0.1:42490 accepted [tcp:172.217.18.14:443] tcp:play.google.com:443 [socks-in -> proxy]
+2023/06/07 07:29:42 tcp:127.0.0.1:42506 accepted [tcp:172.217.18.97:443] tcp:lh3.googleusercontent.com:443 [socks-in -> proxy]
+2023/06/07 07:29:42 [Warning] [2990135771] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:42 [Warning] [2110617952] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:42 tcp:127.0.0.1:42516 accepted [tcp:151.101.1.69:443] tcp:stackoverflow.com:443 [socks-in -> proxy]
+2023/06/07 07:29:43 udp:127.0.0.1:48037 accepted [udp:142.250.186.78:443]  [socks-in -> proxy]
+2023/06/07 07:29:43 [Warning] [1690510485] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd): 500 Internal Server Error > websocket: bad handshake] > common/retry: all retry attempts failed
+2023/06/07 07:29:43 [Warning] [3639203163] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:45 tcp:127.0.0.1:42518 accepted [tcp:151.101.1.69:443] tcp:stackoverflow.com:443 [socks-in -> proxy]
+2023/06/07 07:29:46 tcp:127.0.0.1:42534 accepted [tcp:142.250.181.234:443] tcp:ajax.googleapis.com:443 [socks-in -> proxy]
+2023/06/07 07:29:46 tcp:127.0.0.1:42538 accepted [tcp:151.101.65.69:443] tcp:cdn.sstatic.net:443 [socks-in -> proxy]
+2023/06/07 07:29:46 tcp:127.0.0.1:42542 accepted [tcp:151.101.65.69:443] tcp:cdn.sstatic.net:443 [socks-in -> proxy]
+2023/06/07 07:29:46 tcp:127.0.0.1:42550 accepted [tcp:151.101.65.69:443] tcp:cdn.sstatic.net:443 [socks-in -> proxy]
+2023/06/07 07:29:46 tcp:127.0.0.1:42556 accepted [tcp:151.101.65.69:443] tcp:cdn.sstatic.net:443 [socks-in -> proxy]
+2023/06/07 07:29:46 tcp:127.0.0.1:42562 accepted [tcp:151.101.65.69:443] tcp:cdn.sstatic.net:443 [socks-in -> proxy]
+2023/06/07 07:29:46 tcp:127.0.0.1:42560 accepted [tcp:151.101.65.69:443] tcp:cdn.sstatic.net:443 [socks-in -> proxy]
+2023/06/07 07:29:46 tcp:127.0.0.1:42564 accepted [tcp:146.75.116.193:443] tcp:i.stack.imgur.com:443 [socks-in -> proxy]
+2023/06/07 07:29:46 tcp:127.0.0.1:42574 accepted [tcp:146.75.116.193:443] tcp:i.stack.imgur.com:443 [socks-in -> proxy]
+2023/06/07 07:29:46 tcp:127.0.0.1:42586 accepted [tcp:146.75.116.193:443] tcp:i.stack.imgur.com:443 [socks-in -> proxy]
+2023/06/07 07:29:46 tcp:127.0.0.1:42590 accepted [tcp:142.250.185.104:443] tcp:www.googletagmanager.com:443 [socks-in -> proxy]
+2023/06/07 07:29:46 [Warning] [2255402814] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:47 [Warning] [506528164] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:47 [Warning] [2018363594] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:47 [Warning] [1832477047] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:47 [Warning] [629963009] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:47 [Warning] [3195054104] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:47 [Warning] [1923737780] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:47 [Warning] [1556115636] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:47 [Warning] [277508074] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:47 [Warning] [3056808167] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:47 tcp:127.0.0.1:42606 accepted [tcp:142.250.186.98:443] tcp:pagead2.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:48 udp:127.0.0.1:53607 accepted [udp:142.250.186.98:443] udp:pagead2.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:48 tcp:127.0.0.1:42632 accepted [tcp:142.250.185.161:443] tcp:e55d637c734d781778be720c599aa208.safeframe.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:49 tcp:127.0.0.1:42634 accepted [tcp:142.250.185.161:443] tcp:e55d637c734d781778be720c599aa208.safeframe.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:49 tcp:127.0.0.1:42650 accepted [tcp:151.101.65.69:443] tcp:clc.stackoverflow.com:443 [socks-in -> proxy]
+2023/06/07 07:29:49 tcp:127.0.0.1:42656 accepted [tcp:142.250.185.161:443] tcp:e55d637c734d781778be720c599aa208.safeframe.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:49 tcp:127.0.0.1:42660 accepted [tcp:142.250.185.161:443] tcp:e55d637c734d781778be720c599aa208.safeframe.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:49 tcp:127.0.0.1:42670 accepted [tcp:142.250.185.161:443] tcp:e55d637c734d781778be720c599aa208.safeframe.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:49 udp:127.0.0.1:58836 accepted [udp:142.250.185.161:443] udp:e55d637c734d781778be720c599aa208.safeframe.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:49 tcp:127.0.0.1:42688 accepted [tcp:142.250.186.34:443] tcp:www.googletagservices.com:443 [socks-in -> proxy]
+2023/06/07 07:29:49 [Warning] [83120436] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:49 [Warning] [3309617116] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:49 [Warning] [192889099] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:50 tcp:127.0.0.1:59784 accepted [tcp:142.250.186.34:443] tcp:www.googletagservices.com:443 [socks-in -> proxy]
+2023/06/07 07:29:50 [Warning] [1899831200] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:50 udp:127.0.0.1:58836 accepted [udp:142.250.185.161:443]  [socks-in -> proxy]
+2023/06/07 07:29:50 udp:127.0.0.1:57570 accepted [udp:142.250.186.34:443] udp:www.googletagservices.com:443 [socks-in -> proxy]
+2023/06/07 07:29:50 tcp:127.0.0.1:59804 accepted [tcp:142.250.185.193:443] tcp:tpc.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:50 tcp:127.0.0.1:59806 accepted [tcp:142.250.185.193:443] tcp:tpc.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:50 [Warning] [1899831200] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:51 [Warning] [2723503427] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:51 udp:127.0.0.1:57570 accepted [udp:142.250.186.34:443]  [socks-in -> proxy]
+2023/06/07 07:29:51 udp:127.0.0.1:58836 accepted [udp:142.250.185.161:443]  [socks-in -> proxy]
+2023/06/07 07:29:51 udp:127.0.0.1:58370 accepted [udp:142.250.185.193:443] udp:tpc.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:51 udp:127.0.0.1:37847 accepted [udp:142.250.186.98:443] udp:pagead2.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:51 tcp:127.0.0.1:59822 accepted [tcp:10.10.34.36:443] tcp:graph.facebook.com:443 [socks-in -> proxy]
+2023/06/07 07:29:51 tcp:127.0.0.1:59834 accepted [tcp:142.250.186.98:443] tcp:pagead2.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:51 tcp:127.0.0.1:59850 accepted [tcp:142.250.186.98:443] tcp:pagead2.googlesyndication.com:443 [socks-in -> proxy]
+2023/06/07 07:29:52 [Warning] [2723503427] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:52 [Warning] [744953343] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:52 [Warning] [1899831200] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:52 [Warning] [243041438] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd): 500 Internal Server Error > websocket: bad handshake transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:52 [Warning] [926886062] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd): 500 Internal Server Error > websocket: bad handshake transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:52 udp:127.0.0.1:37847 accepted [udp:142.250.186.98:443]  [socks-in -> proxy]
+2023/06/07 07:29:52 udp:127.0.0.1:57570 accepted [udp:142.250.186.34:443]  [socks-in -> proxy]
+2023/06/07 07:29:54 udp:127.0.0.1:58836 accepted [udp:142.250.185.161:443]  [socks-in -> proxy]
+2023/06/07 07:29:54 [Warning] [1899831200] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:29:58 udp:127.0.0.1:58836 accepted [udp:142.250.185.161:443]  [socks-in -> proxy]
+2023/06/07 07:30:01 tcp:127.0.0.1:40122 accepted [tcp:188.114.98.0:80] tcp:opencv.org:80 [socks-in -> proxy]
+2023/06/07 07:30:02 tcp:127.0.0.1:40130 accepted [tcp:188.114.98.0:443] tcp:opencv.org:443 [socks-in -> proxy]
+2023/06/07 07:30:04 udp:127.0.0.1:42049 accepted [udp:188.114.98.0:443] udp:opencv.org:443 [socks-in -> proxy]
+2023/06/07 07:30:04 tcp:127.0.0.1:40160 accepted [tcp:142.250.185.104:443] tcp:www.googletagmanager.com:443 [socks-in -> proxy]
+2023/06/07 07:30:04 tcp:127.0.0.1:40166 accepted [tcp:188.114.99.0:443] tcp:static.addtoany.com:443 [socks-in -> proxy]
+2023/06/07 07:30:04 tcp:127.0.0.1:40182 accepted [tcp:142.250.186.138:443] tcp:fonts.googleapis.com:443 [socks-in -> proxy]
+2023/06/07 07:30:04 tcp:127.0.0.1:40198 accepted [tcp:142.250.186.138:443] tcp:fonts.googleapis.com:443 [socks-in -> proxy]
+2023/06/07 07:30:04 tcp:127.0.0.1:40210 accepted [tcp:142.250.186.138:443] tcp:fonts.googleapis.com:443 [socks-in -> proxy]
+2023/06/07 07:30:04 tcp:127.0.0.1:40214 accepted [tcp:188.114.99.0:443] tcp:stackpath.bootstrapcdn.com:443 [socks-in -> proxy]
+2023/06/07 07:30:05 [Warning] [3504146832] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:05 [Warning] [469462788] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:05 udp:127.0.0.1:43832 accepted [udp:188.114.99.0:443] udp:static.addtoany.com:443 [socks-in -> proxy]
+2023/06/07 07:30:05 [Warning] [1011668399] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd): 500 Internal Server Error > websocket: bad handshake transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:05 [Warning] [331529608] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd): 500 Internal Server Error > websocket: bad handshake transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:05 [Warning] [1261832037] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:06 udp:127.0.0.1:43832 accepted [udp:188.114.99.0:443]  [socks-in -> proxy]
+2023/06/07 07:30:06 tcp:127.0.0.1:40222 accepted [tcp:142.250.185.104:443] tcp:www.googletagmanager.com:443 [socks-in -> proxy]
+2023/06/07 07:30:06 tcp:127.0.0.1:40234 accepted [tcp:188.114.99.0:443] tcp:stackpath.bootstrapcdn.com:443 [socks-in -> proxy]
+2023/06/07 07:30:06 tcp:127.0.0.1:40248 accepted [tcp:188.114.99.0:443] tcp:static.addtoany.com:443 [socks-in -> proxy]
+2023/06/07 07:30:06 cmsgProtect: broken pipe
+2023/06/07 07:30:06 tcp:127.0.0.1:40256 accepted [tcp:142.250.185.104:443] tcp:www.googletagmanager.com:443 [socks-in -> proxy]
+2023/06/07 07:30:06 tcp:127.0.0.1:40270 accepted [tcp:142.250.185.104:443] tcp:www.googletagmanager.com:443 [socks-in -> proxy]
+2023/06/07 07:30:06 [Warning] [818478188] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:06 [Warning] [1261832037] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:06 [Warning] [3484437246] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:06 tcp:127.0.0.1:40278 accepted [tcp:142.250.185.104:443] tcp:www.googletagmanager.com:443 [socks-in -> proxy]
+2023/06/07 07:30:07 [Warning] [1310379099] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd): 500 Internal Server Error > websocket: bad handshake transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:07 [Warning] [74945685] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd): 500 Internal Server Error > websocket: bad handshake transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:07 udp:127.0.0.1:43832 accepted [udp:188.114.99.0:443]  [socks-in -> proxy]
+2023/06/07 07:30:07 [Warning] [1261832037] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:07 tcp:127.0.0.1:40296 accepted [tcp:172.217.17.142:443] tcp:www.google-analytics.com:443 [socks-in -> proxy]
+2023/06/07 07:30:07 tcp:127.0.0.1:40288 accepted [tcp:172.217.17.142:443] tcp:www.google-analytics.com:443 [socks-in -> proxy]
+2023/06/07 07:30:08 [Warning] [513284053] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:08 [Warning] [1105028565] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd): 500 Internal Server Error > websocket: bad handshake] > common/retry: all retry attempts failed
+2023/06/07 07:30:09 udp:127.0.0.1:43832 accepted [udp:188.114.99.0:443]  [socks-in -> proxy]
+2023/06/07 07:30:10 [Warning] [1261832037] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:14 udp:127.0.0.1:43832 accepted [udp:188.114.99.0:443]  [socks-in -> proxy]
+2023/06/07 07:30:15 tcp:127.0.0.1:39356 accepted [tcp:10.10.34.36:443] tcp:connect.facebook.net:443 [socks-in -> proxy]
+2023/06/07 07:30:16 [Warning] [781841238] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd): 500 Internal Server Error > websocket: bad handshake transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:16 tcp:127.0.0.1:39362 accepted [tcp:142.250.185.131:443] tcp:fonts.gstatic.com:443 [socks-in -> proxy]
+2023/06/07 07:30:17 [Warning] [3943899763] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:26 udp:127.0.0.1:45112 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:30:27 tcp:127.0.0.1:56192 accepted [tcp:142.250.185.131:443] tcp:fonts.gstatic.com:443 [socks-in -> proxy]
+2023/06/07 07:30:27 tcp:127.0.0.1:56188 accepted [tcp:142.250.185.131:443] tcp:fonts.gstatic.com:443 [socks-in -> proxy]
+2023/06/07 07:30:28 [Warning] [2522321124] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:30:28 [Warning] [894130130] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:31:03 tcp:127.0.0.1:45876 accepted [tcp:107.23.218.0:443] tcp:tch260478.tch.poe.com:443 [socks-in -> proxy]
+2023/06/07 07:31:04 [Warning] [4153014380] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd): 500 Internal Server Error > websocket: bad handshake transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:31:05 tcp:127.0.0.1:45890 accepted [tcp:107.23.218.0:443] tcp:tch260478.tch.poe.com:443 [socks-in -> proxy]
+2023/06/07 07:31:05 [Warning] [2374154818] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > websocket: close 1000 (normal)
+2023/06/07 07:31:05 [Warning] [3033241912] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:31:07 tcp:127.0.0.1:45900 accepted [tcp:107.23.218.0:443] tcp:tch260478.tch.poe.com:443 [socks-in -> proxy]
+2023/06/07 07:31:08 tcp:127.0.0.1:45912 accepted [tcp:107.23.218.0:443] tcp:tch260478.tch.poe.com:443 [socks-in -> proxy]
+2023/06/07 07:31:08 [Warning] [1644568168] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:31:10 [Warning] [3616785730] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > websocket: close 1000 (normal)
+2023/06/07 07:31:12 tcp:127.0.0.1:46138 accepted [tcp:107.23.218.0:443] tcp:tch260478.tch.poe.com:443 [socks-in -> proxy]
+2023/06/07 07:31:13 tcp:127.0.0.1:46152 accepted [tcp:107.23.218.0:443] tcp:tch260478.tch.poe.com:443 [socks-in -> proxy]
+2023/06/07 07:31:13 [Warning] [594905237] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: failed to find an available destination > common/retry: [transport/internet/websocket: failed to dial WebSocket > transport/internet/websocket: failed to dial to (wss://now.alienhack.tech:2121/XsdfdWw24kd):  > EOF] > common/retry: all retry attempts failed
+2023/06/07 07:31:14 tcp:127.0.0.1:46160 accepted [tcp:107.23.218.0:443] tcp:tch260478.tch.poe.com:443 [socks-in -> proxy]
+2023/06/07 07:31:15 [Warning] [1671199366] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > websocket: close 1000 (normal)
+2023/06/07 07:31:25 tcp:127.0.0.1:39444 accepted [tcp:185.199.111.133:443] tcp:raw.githubusercontent.com:443 [socks-in -> proxy]
+2023/06/07 07:31:25 tcp:127.0.0.1:39458 accepted [tcp:34.120.177.193:443] tcp:grafana.com:443 [socks-in -> proxy]
+2023/06/07 07:31:31 udp:127.0.0.1:42078 accepted [udp:185.125.190.57:123]  [socks-in -> proxy]
+2023/06/07 07:31:41 tcp:127.0.0.1:60850 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/07 07:31:41 tcp:127.0.0.1:60860 accepted [tcp:34.107.221.82:80] tcp:detectportal.firefox.com:80 [socks-in -> proxy]
+2023/06/07 07:31:43 tcp:127.0.0.1:60870 accepted [tcp:107.23.218.0:443] tcp:tch260478.tch.poe.com:443 [socks-in -> proxy]
+2023/06/07 07:31:46 [Warning] [1441758944] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > websocket: close 1000 (normal)
+2023/06/07 07:31:58 [Warning] [2209179709] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:39928->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [913744434] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:32976->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [800709485] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:33260->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [3905122261] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:50864->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [2464581988] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:33944->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [1899831200] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:46752->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [1261832037] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:52368->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [2525067664] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:46612->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [1857809910] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:53862->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [2527115137] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:35526->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [723730416] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:60406->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [2990135771] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:42110->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [2723503427] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:46718->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [2655868054] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:39704->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [744953343] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:46702->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [513091166] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:42016->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [3075895528] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:34064->5.160.40.35:2121: use of closed network connection
+2023/06/07 07:31:58 [Warning] [1694936267] app/proxyman/outbound: failed to process outbound traffic > proxy/trojan: connection ends > proxy/trojan: failed to read address and port > read tcp 172.22.106.39:42346->5.160.40.35:2121: use of closed network connection

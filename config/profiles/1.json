@@ -1,0 +1,26 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "now.alienhack.tech",
+        "name": "Now",
+        "pass": "AnRx98lTGY",
+        "port": 2121,
+        "stream": {
+            "ed_len": 0,
+            "host": "fumlug.ddns.net",
+            "insecure": false,
+            "net": "ws",
+            "path": "/XsdfdWw24kd",
+            "sec": "tls",
+            "sni": "fumlug.ddns.net"
+        }
+    },
+    "gid": 0,
+    "id": 1,
+    "traffic": {
+        "dl": 71905327,
+        "ul": 233811
+    },
+    "type": "trojan",
+    "yc": 0
+}
